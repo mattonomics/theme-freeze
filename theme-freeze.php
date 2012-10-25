@@ -2,7 +2,7 @@
 /*
 Plugin Name: Theme Freeze
 Author: Matt Gross
-Description: Would you like to test out a more complex theme than the WordPress can possibly accomodate? Simply activate Theme Freeze and it will show visitors the current active theme. Then, while logged in, switch to another theme and test it out!
+Description: Would you like to test out a more complex theme than the WordPress Live Preview can possibly accomodate? Simply activate Theme Freeze and it will show visitors the current active theme. Then, while logged in, switch to another theme and test it out!
 Version: 1.0
 */
 
